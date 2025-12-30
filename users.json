@@ -15,21 +15,6 @@
     "avatar": "/avatars/yujunliang.png"
   },
   {
-    "name": "Yongkang He",
-    "github": "yongkanghe",
-    "certs": [
-      "KSUG.AI Community Hero"
-    ],
-    "city": "Melbourne",
-    "country": "Australia",
-    "date": "2024-07-01",
-    "bio": "Founder @KSUG.AI | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
-    "twitter": "yongkanghe",
-    "linkedin": "yongkanghe",
-    "website": "https://www.linkedin.com/posts/yongkanghe_ksug-kubestrong-awstronaut-activity-7409805091572117505-iQL7",
-    "avatar": "/avatars/yongkanghe.png"
-  },
-  {
     "name": "Bangaly KABA, PhD",
     "certs": [
       "KSUG.AI Community Hero"
@@ -114,5 +99,20 @@
     "linkedin": "preyash-vrat-☁-practice-director-google-practice-ex-ibm-capgemini-accenture-and-hcl-b1328323",
     "website": "https://www.linkedin.com/feed/update/urn:li:activity:7407770681695907840/",
     "avatar": "/avatars/preyashvrat.png"
+  },
+  {
+    "name": "Yongkang He",
+    "github": "yongkanghe",
+    "certs": [
+      "KSUG.AI Community Hero"
+    ],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2024-07-01",
+    "bio": "Founder @KSUG.AI | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
+    "twitter": "yongkanghe",
+    "linkedin": "yongkanghe",
+    "website": "https://www.linkedin.com/posts/yongkanghe_ksug-kubestrong-awstronaut-activity-7409805091572117505-iQL7",
+    "avatar": "/avatars/yongkanghe.png"
   }
 ]
