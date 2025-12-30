@@ -52,18 +52,5 @@
     "bio": "Cloud DevSecOps Engineer | CNCF Golden Kubestronaut | 13x AWS | 12x Azure | 7x GCP",
     "linkedin": "anapedra",
     "avatar": "/avatars/Ana_Pedra.jpeg"
-  }, 
-  {
-  "name": "Dmytro Slotvinskyi",
-  "github": "dmytroslotvinskyy",
-  "certs": [
-      "KSUG.AI Community Hero"
-  ],
-  "city": "Kyiv",
-  "country": "Ukraine",
-  "date": "2025-12-29",
-  "bio": "Senior Azure DevOps Engineer (Azure AI/MLOps) @ Intellias | CNCF Ambassador | Golden Kubestronaut ☸️",
-  "linkedin": "dmytro-slotvinskyi",
-  "avatar": "/avatars/slotvinskyidmytro.jpg"
   }
 ]
