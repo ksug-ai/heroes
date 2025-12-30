@@ -11,7 +11,7 @@
     "bio": "Certification King | kubestrong | awstronaut | kubestronaut | AWS Builder | Google GDE 2025 | Multi-Cloud",
     "twitter": "yujunliang",
     "linkedin": "yujunliang",
-    "website": "",
+    "website": "https://www.linkedin.com/posts/yongkanghe_ksug-kubestrong-awstronaut-activity-7409805091572117505-iQL7",
     "avatar": "/avatars/yujunliang.png"
   },
   {
@@ -26,7 +26,7 @@
     "bio": "Founder @KSUG.AI | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
     "twitter": "yongkanghe",
     "linkedin": "yongkanghe",
-    "website": "https://ksug.ai",
+    "website": "https://www.linkedin.com/posts/yongkanghe_ksug-kubestrong-awstronaut-activity-7409805091572117505-iQL7",
     "avatar": "/avatars/yongkanghe.png"
   },
   {
@@ -38,7 +38,44 @@
     "country": "France",
     "date": "2025-05-05",
     "linkedin": "bangaly-kaba-phd-6aa51925",
+    "website": "https://www.linkedin.com/posts/yongkanghe_yearinreview-france-aws-activity-7407321280581963776-rcOV",
     "avatar": "/avatars/bangalykaba.png"
+  },
+  {
+    "name": "Samsul Adam M",
+    "certs": [
+      "KSUG.AI Community Hero"
+    ],
+    "city": "Penang",
+    "country": "Malaysia",
+    "date": "2025-12-30",
+    "linkedin": "samsuladam",
+    "website": "https://www.linkedin.com/posts/kubestrong_yearinreview-malaysia-aws-activity-7407242634827800576-Tt6c",
+    "avatar": "/avatars/samsuladam.png"
+  },
+  {
+    "name": "Rashendra Gunawardena",
+    "certs": [
+      "KSUG.AI Community Hero"
+    ],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2025-12-30",
+    "linkedin": "rashendra-gunawardena-3064101b",
+    "website": "https://www.linkedin.com/posts/ksug_yearinreview-kubestronaut-australia-activity-7407245780698202112-dBza",
+    "avatar": "/avatars/rashendragunawardena.png"
+  },
+  {
+    "name": "Varun Verma",
+    "certs": [
+      "KSUG.AI Community Hero"
+    ],
+    "city": "Pune",
+    "country": "India",
+    "date": "2025-12-30",
+    "linkedin": "ivarunverma",
+    "website": "https://www.linkedin.com/posts/awstronaut_yearinreview-cyberweek-linuxfoundation-activity-7407275954487693312-3oTa",
+    "avatar": "/avatars/varunverma.png"
   },
   {
     "name": "Ana Pedra",
@@ -51,6 +88,31 @@
     "date": "2025-08-26",
     "bio": "Cloud DevSecOps Engineer | CNCF Golden Kubestronaut | 13x AWS | 12x Azure | 7x GCP",
     "linkedin": "anapedra",
+    "website": "https://www.linkedin.com/posts/yongkanghe_ksug-kubestrong-awstronaut-activity-7409805091572117505-iQL7",
     "avatar": "/avatars/Ana_Pedra.jpeg"
+  },
+  {
+    "name": "Janani Madhavan",
+    "certs": [
+      "KSUG.AI Community Hero"
+    ],
+    "city": "Virudhunagar",
+    "country": "India",
+    "date": "2025-12-30",
+    "linkedin": "jane-cloud-enthusiast",
+    "website": "https://www.linkedin.com/feed/update/urn:li:activity:7409350228572549120/",
+    "avatar": "/avatars/jananimadhavan.png"
+  }
+  {
+    "name": "Preyash Vrat",
+    "certs": [
+      "KSUG.AI Community Hero"
+    ],
+    "city": "Bengaluru",
+    "country": "India",
+    "date": "2025-12-30",
+    "linkedin": "preyash-vrat-☁-practice-director-google-practice-ex-ibm-capgemini-accenture-and-hcl-b1328323",
+    "website": "https://www.linkedin.com/feed/update/urn:li:activity:7407770681695907840/",
+    "avatar": "/avatars/varunverma.png"
   }
 ]
