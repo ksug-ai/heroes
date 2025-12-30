@@ -15,13 +15,13 @@ Community Heroes are recognized for:
 - Supporting others in discovering and engaging with KSUG.AI community programs
 - Demonstrating sustained commitment to community building
 
-👉 More info on **[KSUG.AI](https://linkedin.com/company/ksug-ai)**.
+👉 More info on **[KSUG.AI](https://linkedin.com/company/ksug)**.
 
 ---
 
 ## 📥 How to Submit Your Profile
 
-> 🚨 **Important:** You must [fork this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo), make your changes, and submit them via a **Pull Request (PR)**.  
+> 🚨 **Important:** You must [fork this repository](https://github.com/ksug-ai/heroes/fork), make your changes, and submit them via a **Pull Request (PR)**.  
 > Do **NOT** attempt to push changes directly to the main branch — they will be automatically rejected.
 
 Your Pull Request should include:
