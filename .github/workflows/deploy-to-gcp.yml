@@ -1,4 +1,4 @@
-name: Upload users.json & avatars to GCP Storage (kubestrong)
+name: Upload users.json & avatars to GCP Storage (heroes)
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
 
 jobs:
   upload-to-gcp:
-    name: Upload kubestrong data to GCP Storage
+    name: Upload heroes data to GCP Storage
     runs-on: ubuntu-latest
 
     steps:
@@ -30,9 +30,9 @@ jobs:
       - name: Upload users.json to GCP Storage
         run: |
           echo "Uploading users.json..."
-          gcloud storage cp users.json gs://ksug-ai-bucket1/kubestrong/users.json
+          gcloud storage cp users.json gs://ksug-ai-bucket1/heroes/users.json
 
       - name: Upload avatars to GCP Storage
         run: |
           echo "Uploading avatars..."
-          gcloud storage cp avatars/* gs://ksug-ai-bucket1/kubestrong/avatars/
+          gcloud storage cp avatars/* gs://ksug-ai-bucket1/heroes/avatars/
