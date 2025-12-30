@@ -1,16 +1,21 @@
-# 📘 kubestrong club Members Submission Guide
+# 🦸 KSUG.AI Heroes Submission Guide
 
-## Welcome to **[kubestrong](https://kubestrong.com/?ref=github)** club! 
+## Welcome to the **[KSUG.AI Heroes](https://ksug.ai/heroes?ref=github)** Program!
 
-The **kubestrong** program recognizes passionate community leaders who are dedicated to continuous learning and helping others grow. Members of the **kubestrong** club are multi-cloud enthusiasts who have earned the **[awstronaut](https://awstronaut.com/awstronaut)** and **[kubestronaut](https://kb.ksug.ai)** titles — or hold the **[Golden Kubestronaut](https://gk.ksug.ai)** badge along with at least two cloud certifications. They are active contributors who uplift and inspire others across the community. 
+The **KSUG.AI Heroes** program celebrates community champions who consistently spread the word about KSUG.AI and its programs — including **[awstronaut](https://awstronaut.com/?ref=github)** and **[kubestrong](https://kubestrong.com/?ref=github)** — and contribute to the community's rapid growth through their relentless support and advocacy.
 
-To submit your profile:
+Unlike certification-based programs, Heroes are recognized for their **community advocacy and promotional efforts**.
 
-1. You must be an awstronaut + kubestronaut or a golden kubestronaut + 2 cloud certs
-2. You must have officially claimed your kubestrong title by tagging us in a LinkedIn post
-3. Then, follow the steps below to get listed!
+### Recognition Criteria
 
-👉 More info on **[kubestrong](https://linkedin.com/company/kubestrong)**.
+Community Heroes are recognized for:
+- Consistently spreading the word about KSUG.AI and its programs in their professional networks
+- Active participation in promoting KSUG.AI resources and initiatives
+- Helping grow the community through advocacy and outreach
+- Supporting others in discovering and engaging with KSUG.AI community programs
+- Demonstrating sustained commitment to community building
+
+👉 More info on **[KSUG.AI](https://linkedin.com/company/ksug-ai)**.
 
 ---
 
@@ -34,11 +39,11 @@ Please add your profile using the following format in `users.json`:
 {
   "name": "Yongkang He",
   "github": "yongkanghe",
-  "certs": ["kubestrong"],
+  "certs": ["KSUG.AI Community Hero"],
   "city": "Melbourne",
   "country": "Australia",
   "date": "2024-07-01",
-  "bio": "Founder @KSUG.AI | Creator @kubestrong = @awstronaut + kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
+  "bio": "Founder @KSUG.AI | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
   "twitter": "yongkanghe",
   "linkedin": "yongkanghe",
   "website": "https://ksug.ai",
@@ -54,11 +59,11 @@ Please add your profile using the following format in `users.json`:
 |------------|----------|-------------|
 | `name`     | ✅       | Full name or display name |
 | `github`   | ✅       | GitHub username (used for fallback avatar) |
-| `certs`    | ✅       | Certification codes
+| `certs`    | ✅       | Recognition type (e.g., `KSUG.AI Community Hero`) |
 | `city`     | ✅       | City of residence |
 | `country`  | ✅       | Country (must match naming in the map) |
-| `date`     | ✅       | Certification date (`YYYY-MM-DD`) |
-| `bio`      | ❌       | Short description or personal motto |
+| `date`     | ✅       | Recognition date (`YYYY-MM-DD`) |
+| `bio`      | ❌       | Description of community contributions |
 | `twitter`  | ❌       | Twitter handle (omit `@`) |
 | `linkedin` | ❌       | LinkedIn username (not full URL) |
 | `website`  | ❌       | Personal or portfolio website |
@@ -82,7 +87,7 @@ Please add your profile using the following format in `users.json`:
 - ✅ Add your profile to the **end** of `users.json`  
 - ✅ Ensure your JSON is valid (use a [JSON validator](https://jsonlint.com/))  
 - ✅ Use a clear commit message, e.g.:  
-  `add: alicejohnson to certified list`
+  `add: yongkanghe to heroes list`
 
 ---
 
@@ -93,9 +98,9 @@ Check out this official guide:
 
 ---
 
-## 🙌 Thank You for Powering the Global Kubestrong Movement!
+## 🙌 Thank You for Being a KSUG.AI Hero!
 
-Together, we’re showcasing the impact of Multi-Cloud certifications and the strength of global community collaboration. 💪☁️🌍 Whether you're just starting out or already certified, you're part of something bigger — and stronger.
+Together, we're demonstrating the power of community-driven growth. Your advocacy helps others discover and engage with the KSUG.AI community. 💪☁️🌍
 
 ---
 
@@ -109,8 +114,8 @@ Join over **180,000** passionate learners who:
 📌 Subscribe now → 🔥 [KSUG.AI Linktree](https://linktr.ee/ksug.ai)
 📌 Bookmark this → ❤️ [KSUG.AI](https://ksug.ai/?ref=github)
 
-🔗 Stay plugged into the world’s most active Kubernetes + AI community.
+🔗 Stay plugged into the world's most active Kubernetes + AI community.
 
-📣 Follow [KSUG.AI](https://ksug.ai/?ref=github) — Let’s build, learn, and grow together! 🚀
+📣 Follow [KSUG.AI](https://ksug.ai/?ref=github) — Let's build, learn, and grow together! 🚀
 
 <sub>[KSUG.AI](https://ksug.ai/?ref=github) is an independent community and not affiliated with or endorsed by CNCF. K8s and Kubernetes are registered trademarks of The Linux Foundation.</sub>
