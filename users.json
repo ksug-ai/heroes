@@ -42,6 +42,20 @@
     "avatar": "/avatars/bangalykaba.png"
   },
   {
+    "name": "Ana Pedra",
+    "github": "redjules",
+    "certs": [
+      "KSUG.AI Community Hero"
+    ],
+    "city": "Zürich",
+    "country": "Switzerland",
+    "date": "2025-08-26",
+    "bio": "Cloud DevSecOps Engineer | CNCF Golden Kubestronaut | 13x AWS | 12x Azure | 7x GCP",
+    "linkedin": "anapedra",
+    "website": "https://www.linkedin.com/posts/yongkanghe_ksug-kubestrong-awstronaut-activity-7409805091572117505-iQL7",
+    "avatar": "/avatars/Ana_Pedra.jpeg"
+  },
+  {
     "name": "Samsul Adam M",
     "certs": [
       "KSUG.AI Community Hero"
@@ -66,32 +80,6 @@
     "avatar": "/avatars/rashendragunawardena.png"
   },
   {
-    "name": "Varun Verma",
-    "certs": [
-      "KSUG.AI Community Hero"
-    ],
-    "city": "Pune",
-    "country": "India",
-    "date": "2025-12-30",
-    "linkedin": "ivarunverma",
-    "website": "https://www.linkedin.com/posts/awstronaut_yearinreview-cyberweek-linuxfoundation-activity-7407275954487693312-3oTa",
-    "avatar": "/avatars/varunverma.png"
-  },
-  {
-    "name": "Ana Pedra",
-    "github": "redjules",
-    "certs": [
-      "KSUG.AI Community Hero"
-    ],
-    "city": "Zürich",
-    "country": "Switzerland",
-    "date": "2025-08-26",
-    "bio": "Cloud DevSecOps Engineer | CNCF Golden Kubestronaut | 13x AWS | 12x Azure | 7x GCP",
-    "linkedin": "anapedra",
-    "website": "https://www.linkedin.com/posts/yongkanghe_ksug-kubestrong-awstronaut-activity-7409805091572117505-iQL7",
-    "avatar": "/avatars/Ana_Pedra.jpeg"
-  },
-  {
     "name": "Janani Madhavan",
     "certs": [
       "KSUG.AI Community Hero"
@@ -102,6 +90,18 @@
     "linkedin": "jane-cloud-enthusiast",
     "website": "https://www.linkedin.com/feed/update/urn:li:activity:7409350228572549120",
     "avatar": "/avatars/jananimadhavan.png"
+  },
+  {
+    "name": "Varun Verma",
+    "certs": [
+      "KSUG.AI Community Hero"
+    ],
+    "city": "Pune",
+    "country": "India",
+    "date": "2025-12-30",
+    "linkedin": "ivarunverma",
+    "website": "https://www.linkedin.com/posts/awstronaut_yearinreview-cyberweek-linuxfoundation-activity-7407275954487693312-3oTa",
+    "avatar": "/avatars/varunverma.png"
   },
   {
     "name": "Preyash Vrat",
