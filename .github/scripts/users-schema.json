@@ -60,7 +60,7 @@
       },
       "avatar": {
         "type": "string",
-        "pattern": "^/avatars/[a-zA-Z0-9_-]+\\.(png|jpg|jpeg)$"
+        "pattern": "^/avatars/[^/]+\\.(png|jpg|jpeg)$"
       }
     }
   }
