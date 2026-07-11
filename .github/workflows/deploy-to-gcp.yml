@@ -1,11 +1,10 @@
-name: Upload users.json & avatars to GCP Storage (heroes)
+name: Upload users.json to GCP Storage (heroes)
 
 on:
   push:
     branches: [main]
     paths:
       - users.json
-      - avatars/**
   workflow_dispatch:
 
 jobs:
@@ -31,8 +30,3 @@ jobs:
         run: |
           echo "Uploading users.json..."
           gcloud storage cp users.json gs://ksug-ai-bucket1/heroes/users.json
-
-      - name: Upload avatars to GCP Storage
-        run: |
-          echo "Uploading avatars..."
-          gcloud storage cp avatars/* gs://ksug-ai-bucket1/heroes/avatars/
