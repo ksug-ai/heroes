@@ -53,7 +53,7 @@
       },
       "linkedin": {
         "type": "string",
-        "pattern": "^[a-zA-Z0-9_-]{3,100}$"
+        "pattern": "^[^/]{3,150}$"
       },
       "website": {
         "type": "string"
