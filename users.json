@@ -123,7 +123,7 @@
     "city": "Melbourne",
     "country": "Australia",
     "date": "2025-12-15",
-    "bio": "Multi-Cloud Data Engineer | 12x Azure | 10x AWS | 5x GCP",
+    "bio": "Multi-Cloud Data Engineer | 12x Azure | 10x AWS | 5x GCP | Donated 4 Microsoft vouchers",
     "linkedin": "feng-gao-829655a6",
     "website": "https://www.linkedin.com/feed/update/urn:li:activity:7426149630482006018/",
     "avatar": "/avatars/fenggao.png"
@@ -162,9 +162,45 @@
     "city": "Agüimes",
     "country": "Spain",
     "date": "2026-06-28",
-    "bio": "awstronaut | 54xAzure | MCT | 15xGCP | 12xAWS | 19xOCI | CKAD | CKA | Aviatrix Cloud Networking Hero | APA Hero | Donated 2 DP-600, 700, 800 voucher",
+    "bio": "awstronaut | 54xAzure | MCT | 15xGCP | 12xAWS | 19xOCI | CKAD | CKA | Aviatrix Cloud Networking Hero | APA Hero | Donated 2 Microsoft vouchers",
     "linkedin": "mariorodriguezhernandez",
     "website": "https://www.linkedin.com/posts/announcements-ksugai-communityhero-share-7481972463275495424-yqe6/",
     "avatar": "/avatars/mariorodríguezhernández.png"
+  },
+  {
+    "name": "Esther Anyalewechi",
+    "certs": [
+      "KSUG.AI Community Hero"
+    ],
+    "city": "Lagos",
+    "country": "Nigeria",
+    "date": "2026-06-30",
+    "bio": "AI Automation Engineer & Technical Advisor | Building AI systems ambitious teams actually adopt | Founder, Queens in Web3 | Donated 2 Microsoft vouchers",
+    "linkedin": "esther-anyalewechi",
+    "avatar": "/avatars/EstherAnyalewechi.png"
+  },
+  {
+    "name": "Mathew Chan",
+    "certs": [
+      "KSUG.AI Community Hero"
+    ],
+    "city": "Yokohama",
+    "country": "Japan",
+    "date": "2026-07-11",
+    "bio": "DeveOps Engineer | Software Developer | Golden Kubestronaut | Donated 1 LPI LPIC-1",
+    "linkedin": "mathew-c-909a79a9",
+    "avatar": "/avatars/MathewChan.png"
+  },
+  {
+    "name": "Thant Zin Phyo",
+    "certs": [
+      "KSUG.AI Community Hero"
+    ],
+    "city": "Kiel",
+    "country": "Germany",
+    "date": "2026-08-01",
+    "bio": "MCT, MCE, MVP, AWS CB, PMP®, PMI-RMP® | Donated 4 Microsoft vouchers",
+    "linkedin": "thant-zin-phyo",
+    "avatar": "/avatars/ThantZinPhyo.png"
   }
 ]
